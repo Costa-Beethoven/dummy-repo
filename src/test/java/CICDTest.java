@@ -10,6 +10,6 @@ class CICDTest {
 
         int result = app.add(2, 3);
 
-        assertEquals(5, result);
+        assertEquals(999, result);
     }
 }
